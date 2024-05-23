@@ -1,2 +1,2 @@
 # git215_setup
-read me :)
+## Author: Marci Jones
